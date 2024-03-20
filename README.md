@@ -39,9 +39,6 @@ Software for Industry , where they can track the attendence of their employee wi
 
 -	Attendance of Users displayed
 
-## Installation
-- Explain how to install or set up the project.
-
 ## Usage
 - this is useful in tracking the attendence of your employees
 
